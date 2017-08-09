@@ -15,8 +15,9 @@ using Sitecore.Web;
 using System;
 using System.Collections.Generic;
 using System.Web;
+using Sitecore.Pipelines.HttpRequest;
 
-namespace Sitecore.Pipelines.HttpRequest
+namespace Sitecore.Support.Pipelines.HttpRequest
 {
     /// <summary>
     /// Executes the request.
